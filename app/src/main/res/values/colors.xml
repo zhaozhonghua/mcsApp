@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="colorPrimary">#09c9b5</color>
+    <color name="colorPrimaryDark">#09c9b5</color>
+    <color name="colorAccent">#09c9b5</color>
+
+    <color name="base_background">#e7e7e7</color>
+
+    <color name="toolbar_bg_color">#E6FFFFFF</color>
+
+    <color name="line">#e5e5e5</color>
+
+    <color name="title_color">#434343</color>
+
+    <color name="unable_text_color">#909090</color>
+
+    <color name="tab_text_default">#ffffff</color>
+    <color name="tab_text_selected">#ffec9d</color>
+
+    <color name="btn_sign_out_color_default">#d6d6d6</color>
+    <color name="btn_sign_out_color_pressed">#d7d7d7</color>
+    <color name="sign_out_color">#ff6482</color>
+    <color name="bg_sign_out_color">#db2a4c</color>
+
+
+    <color name="agora_blue">#FF00A0EB</color>
+    <color name="lightColorAccent">#30FF4081</color>
+    <color name="dark_black">#CC262626</color>
+</resources>

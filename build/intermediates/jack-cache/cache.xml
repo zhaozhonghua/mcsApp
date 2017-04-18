@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zzh/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/zzh/Documents/git/live/app/build/intermediates/transforms/preJackRuntimeLibraries/androidTest/debug/jars/8000/40/android-de3c6260c600727aa3738a2e4cffe9a5797325a7.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/zzh/Documents/git/live/app/build/intermediates/transforms/preJackRuntimeLibraries/androidTest/debug/jars/8000/40/org.apache.http.legacy-6c564fddbcf7d8862c29d597942d933859f85d38.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/Library/Android/sdk/build-tools/25.0.2/renderscript/lib/renderscript-v8.jar"
+        revision="25.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="/Users/zzh/Documents/git/live/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/renderscript-v8-7c0d5daa326febfd1f8d2b8dfed50aa106c9ec85.jar" />
+    </item>
+
+</items>

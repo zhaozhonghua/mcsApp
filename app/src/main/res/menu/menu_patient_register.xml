@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_patient_register"
+        android:title="@string/patient_register"
+        app:showAsAction="always" />
+</menu>
+
+
+

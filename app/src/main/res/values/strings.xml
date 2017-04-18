@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="app_name">移动诊疗</string>
+
+    <string name="live_calendar">挂号</string>
+    <string name="lesson_manager">病例</string>
+    <string name="mine_info">我的</string>
+
+    <string name="avatar">头像</string>
+    <string name="name">姓名</string>
+    <string name="gender">性别</string>
+    <string name="sign">签名</string>
+    <string name="mobile">手机号</string>
+    <string name="username">用户名</string>
+    <string name="change_pwd">修改密码</string>
+    <string name="sign_in">登录</string>
+    <string name="password">密码</string>
+    <string name="sign_out">退出登录</string>
+    <string name="coursera_add">添加病例</string>
+    <string name="patient_register">我要挂号</string>
+    <string name="coursera">病例详情</string>
+    <string name="live_create">添加病情</string>
+    <string name="coursera_name">课程名称</string>
+    <string name="coursera_summary">病例描述</string>
+    <string name="symptom_desc">症状描述</string>
+    <string name="coursera_begin">添加病例</string>
+    <string name="iwantregister">我要挂号</string>
+    <string name="coursera_type">课程类别</string>
+    <string name="coursera_cover">课程封面</string>
+    <string name="coursera_expect_duration">直播预计时长</string>
+    <string name="old_pwd_hint">请输入旧密码</string>
+    <string name="new_pwd_hint">请输入新密码</string>
+    <string name="new_pwd_repeat_hint">请重复输入新密码</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="profile">个人资料</string>
+    <string name="profile_modify">修改资料</string>
+    <string name="save">保存</string>
+
+    <string-array name="string_array_coursera_type">
+        <item>安排课程</item>
+        <item>立即直播</item>
+    </string-array>
+
+    <string-array name="string_array_coursera_duration">
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>20分钟</item>
+        <item>30分钟</item>
+        <item>40分钟</item>
+        <item>1小时</item>
+    </string-array>
+
+    <string-array name="string_array_image_seletor">
+        <item>相机拍摄</item>
+        <item>相册选择</item>
+    </string-array>
+
+    <string-array name="string_array_top_type_seletor">
+        <item>家长</item>
+        <item>公众</item>
+    </string-array>
+
+    <string name="label_settings">Settings</string>
+    <string name="msg_choose_role">Would you like to be the broadcaster or an audience?</string>
+    <string name="label_audience">Audience</string>
+    <string name="label_broadcaster">Broadcaster</string>
+    <string name="label_confirm">Confirm</string>
+    <string-array name="string_array_resolutions">
+        <item>160x120</item>
+        // 120P
+        <item>320x180</item>
+        // 180P
+        <item>320x240</item>
+        // 240P the default one
+        <item>640x360</item>
+        // 360P
+        <item>640x480</item>
+        // 480P
+        <item>1280x720</item>
+        // 720P
+    </string-array>
+
+    <string-array name="string_array_frame_rate">
+        <item>15</item>
+        // 120P
+        <item>15</item>
+        // 180P
+        <item>15</item>
+        // 240P
+        <item>15</item>
+        // 360P
+        <item>15</item>
+        // 480P
+        <item>15</item>
+        // 720P
+    </string-array>
+
+    <string-array name="string_array_bit_rate">
+        <item>80</item>
+        // 120P
+        <item>160</item>
+        // 180P
+        <item>200</item>
+        // 240P
+        <item>400</item>
+        // 360P
+        <item>500</item>
+        // 480P
+        <item>1000</item>
+        // 720P
+    </string-array>
+</resources>
