@@ -115,13 +115,19 @@ public class ApiClient {
 
     public void encounters(int status, String token, Callback responseCallback){
         Log.d(tag, API_DOMAIN + "/encounter");
-        Request request = get("http://" + API_DOMAIN + "/encounter", token);
+        Request request = get("http://" + API_DOMAIN + "/encounter?status="+status, token);
         enqueue(request, responseCallback);
     }
 
     public void patientRegister(RequestBody requestBody, String userId, String token, Callback responseCallback){
         Log.d(tag, API_DOMAIN + "/patient/" + userId);
         Request request = post(requestBody, "http://" + API_DOMAIN + "/encounter/patient/" + userId, token);
+        enqueue(request, responseCallback);
+    }
+
+    public void doctorUpdateEncounter(RequestBody requestBody, String id, String doctorId, String token, Callback responseCallback){
+        Log.d(tag, API_DOMAIN + "/"+id+"/doctor/" + doctorId);
+        Request request = put(requestBody, "http://" + API_DOMAIN + "/encounter/"+id+"/doctor/" + doctorId, token);
         enqueue(request, responseCallback);
     }
 

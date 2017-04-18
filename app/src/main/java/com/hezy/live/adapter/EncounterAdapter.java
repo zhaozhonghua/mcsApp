@@ -45,7 +45,7 @@ public class EncounterAdapter extends BaseListAdapter<Encounter> {
         }
 
         Encounter encounter = (Encounter) getItem(position);
-        holder.courseraNameText.setText(encounter.registerCode);
+        holder.courseraNameText.setText("就诊编号：" + encounter.registerCode);
         Picasso.with(mContext).load(encounter.patient.head).transform(new RoundedTransformation(50, 0)).into(holder.courseraImage);
         // 0：待处理 1 正在处理 2：处理完成
         if (encounter.status == 0) {
@@ -55,9 +55,9 @@ public class EncounterAdapter extends BaseListAdapter<Encounter> {
         }else{
             holder.courseraStatusText.setText("处理完成");
         }
-        holder.courseraCountText.setText(encounter.registerCode + "1");
-        holder.courseraPriceText.setText(encounter.registerCode + "2");
-        holder.audienceCountText.setText(encounter.registerCode + "3");
+        holder.courseraCountText.setText(encounter.remarks);
+        holder.courseraPriceText.setText(encounter.patient.name);
+        holder.audienceCountText.setText(encounter.createDate);
 
         return convertView;
     }

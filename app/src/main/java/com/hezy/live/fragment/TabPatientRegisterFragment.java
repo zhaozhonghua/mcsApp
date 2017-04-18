@@ -48,7 +48,7 @@ public class TabPatientRegisterFragment extends BaseFragment {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 Encounter encounter = (Encounter) adapterView.getItemAtPosition(i);
-                startActivity(new Intent(getActivity(), CourseraActivity.class).putExtra("encounter", encounter));
+                startActivity(new Intent(getActivity(), LiveCreateActivity.class).putExtra("encounter", encounter));
             }
         });
         return view;
@@ -64,7 +64,7 @@ public class TabPatientRegisterFragment extends BaseFragment {
     }
 
     private void encounters() {
-        client.encounters(Preferences.getUserType(prefs), Preferences.getToken(prefs), encountersCallback);
+        client.encounters(0, Preferences.getToken(prefs), encountersCallback);
     }
 
     private EncountersCallback encountersCallback = new EncountersCallback() {

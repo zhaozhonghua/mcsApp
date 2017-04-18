@@ -64,7 +64,7 @@ public class TabCourseraFragment extends BaseFragment {
     }
 
     private void encounters() {
-        client.encounters(Preferences.getUserType(prefs), Preferences.getToken(prefs), encountersCallback);
+        client.encounters(2, Preferences.getToken(prefs), encountersCallback);
     }
 
     private EncountersCallback encountersCallback = new EncountersCallback() {
@@ -84,19 +84,19 @@ public class TabCourseraFragment extends BaseFragment {
         }
     };
 
-    @Override
-    public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-        inflater.inflate(R.menu.menu_coursera_add, menu);
-        super.onCreateOptionsMenu(menu, inflater);
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        switch (item.getItemId()) {
-            case R.id.action_coursera_add:
-                startActivity(new Intent(getActivity(), LiveCreateActivity.class));
-        }
-        return super.onOptionsItemSelected(item);
-    }
+//    @Override
+//    public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
+//        inflater.inflate(R.menu.menu_coursera_add, menu);
+//        super.onCreateOptionsMenu(menu, inflater);
+//    }
+//
+//    @Override
+//    public boolean onOptionsItemSelected(MenuItem item) {
+//        switch (item.getItemId()) {
+//            case R.id.action_coursera_add:
+//                startActivity(new Intent(getActivity(), LiveCreateActivity.class));
+//        }
+//        return super.onOptionsItemSelected(item);
+//    }
 
 }
