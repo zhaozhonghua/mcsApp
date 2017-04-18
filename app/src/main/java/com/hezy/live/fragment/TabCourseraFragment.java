@@ -47,6 +47,7 @@ public class TabCourseraFragment extends BaseFragment {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 Encounter encounter = (Encounter) adapterView.getItemAtPosition(i);
+                Log.d("tag", encounter.registerCode);
                 startActivity(new Intent(getActivity(), CourseraActivity.class).putExtra("encounter", encounter));
             }
         });

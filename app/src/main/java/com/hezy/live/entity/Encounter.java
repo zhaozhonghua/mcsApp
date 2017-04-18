@@ -14,6 +14,7 @@ public class Encounter implements Parcelable, Entity{
     public String updateDate;
     public String createBy;
     public String updateBy;
+    public String remarks;
 
     @Override
     public int describeContents() {
@@ -31,6 +32,7 @@ public class Encounter implements Parcelable, Entity{
         dest.writeString(this.createBy);
         dest.writeString(this.updateBy);
         dest.writeString(this.updateDate);
+        dest.writeString(this.remarks);
     }
 
     public Encounter() {
@@ -40,12 +42,13 @@ public class Encounter implements Parcelable, Entity{
         this.id = in.readString();
 //        this.patient = in.readValue();
         this.registerCode = in.readString();
-        this.description = in.readString();
         this.status = in.readInt();
+        this.description = in.readString();
         this.createDate = in.readString();
-        this.updateDate = in.readString();
         this.createBy = in.readString();
         this.updateBy = in.readString();
+        this.updateDate = in.readString();
+        this.remarks = in.readString();
     }
 
     public static final Creator<Encounter> CREATOR = new Creator<Encounter>() {

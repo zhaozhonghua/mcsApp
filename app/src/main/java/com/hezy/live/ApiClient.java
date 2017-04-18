@@ -113,7 +113,7 @@ public class ApiClient {
         enqueue(request, responseCallback);
     }
 
-    public void encounters(int type, String token, Callback responseCallback){
+    public void encounters(int status, String token, Callback responseCallback){
         Log.d(tag, API_DOMAIN + "/encounter");
         Request request = get("http://" + API_DOMAIN + "/encounter", token);
         enqueue(request, responseCallback);

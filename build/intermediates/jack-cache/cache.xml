@@ -2,22 +2,196 @@
 <items version="2" >
 
     <item
+        jar="/Users/zzh/.android/build-cache/52773e64c3af112f894907d7647a476ee803a240/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="90f7cf4cd2111fde16811e43b8ea942b55913121">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9f33fed31e6e8be062ea502407dbe3d397a0e55a.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        revision="25.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.5.0-520b52b92740022d321be8148f40679c488337bc.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.qiniu/qiniu-android-sdk/7.3.3/ce507a5826e9d737bad0842fd4a78053c2371343/qiniu-android-sdk-7.3.3.jar"
+        revision="25.0.2"
+        sha1="ce507a5826e9d737bad0842fd4a78053c2371343">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/qiniu-android-sdk-7.3.3-61cdf3a7f0aa1c72d8059dcfa888a1454756da7a.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.8.0-1eceeb5f66a2f50d0f5836003d6be64a4ab2553f.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/ee8ad321bfa84f96c624559c63b270635c65c2a3/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="0d86ad5b79ed5d4394b3f4011ec90a7d9b876fcb">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d72539e2eb1a4c6823d551d16e8241a3e493d917.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.5.0/94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397/logging-interceptor-3.5.0.jar"
+        revision="25.0.2"
+        sha1="94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/logging-interceptor-3.5.0-b102565694da2ef3440372cbfe716d0807f15c6a.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/27f32951bdd1b3f2d192a777522c68c17fdefb3e/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-79c8260663886769ce13948bedfa7e0316e94630.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/6a202831d255789315a19c0a93314228fff63f69/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a91e923c896260e94a6d80616f01611302052d19.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        revision="25.0.2"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/slf4j-api-1.7.21-194220d1e69a8b4a3f2bee741bba98b73c68d7b8.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/4c25d3f5240316eb5b60ba114fb4e56b63b88069/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f4abfa9a4d1995d6c325a770cad65ed05fcdc4ef.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-classic/1.1.1-5/33a8c805e9666fe904746e90b932b98386c133b9/logback-android-classic-1.1.1-5.jar"
+        revision="25.0.2"
+        sha1="33a8c805e9666fe904746e90b932b98386c133b9">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/logback-android-classic-1.1.1-5-64935da0727b9015ff9cc686155371d61ff924ae.jar" />
+    </item>
+    <item
         jar="/Users/zzh/Library/Android/sdk/platforms/android-25/android.jar"
         revision="25.0.2"
         sha1="712a0312fe844a21a1b3812fa960c363a1578984">
-        <dex dex="/Users/zzh/Documents/git/live/app/build/intermediates/transforms/preJackRuntimeLibraries/androidTest/debug/jars/8000/40/android-de3c6260c600727aa3738a2e4cffe9a5797325a7.jar" />
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-de3c6260c600727aa3738a2e4cffe9a5797325a7.jar" />
     </item>
     <item
-        jar="/Users/zzh/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
         revision="25.0.2"
-        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
-        <dex dex="/Users/zzh/Documents/git/live/app/build/intermediates/transforms/preJackRuntimeLibraries/androidTest/debug/jars/8000/40/org.apache.http.legacy-6c564fddbcf7d8862c29d597942d933859f85d38.jar" />
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/picasso-2.5.2-72b8a5d14d2c4e5cad55950312058bf5393e429f.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/05dc626763f3fb23ffc18fada5e9b1bd117359aa/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9f58ee137786f773f52c71917b4161361988da60.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/6f582f438caab8892a16b6e606958dae76b72b56/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7ea9d122a22b3230d8a94045c51f78cb2bb19bed.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/dbda46a21bf1a1c42116ab27e944b81117058b35/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d313f143db01082d2520f54d472efe0ceb0bde9b.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.51.android/2e2c489c8f83221ed5a285440d1102f9fa8138eb/fastjson-1.1.51.android.jar"
+        revision="25.0.2"
+        sha1="2e2c489c8f83221ed5a285440d1102f9fa8138eb">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/fastjson-1.1.51.android-75b1655582a4ebb3d6ccd9f9dcc443f067e18ff7.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/e785885d7234113bd8be9cf51cfbec7bb7c03842/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a22a31b31bbfea1e8222caf25c7b9a6529951a7d.jar" />
     </item>
     <item
         jar="/Users/zzh/Library/Android/sdk/build-tools/25.0.2/renderscript/lib/renderscript-v8.jar"
         revision="25.0.2"
         sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
-        <dex dex="/Users/zzh/Documents/git/live/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/renderscript-v8-7c0d5daa326febfd1f8d2b8dfed50aa106c9ec85.jar" />
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/renderscript-v8-7c0d5daa326febfd1f8d2b8dfed50aa106c9ec85.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/ed9cf8fba87b7705ce06ed356aaf9157d5ff25cb/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5e4538ec4e8e88b0c4033b5d23ba9e0b30384b8c.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.11.0-192a8f8c23b4278fde614d9465cbe10b9647b51c.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/45060590d0c017483b7971333afc80cab1e0abcf/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-548837e22ac763b2d18b802b9be1cc6f7c024ea5.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.github.tony19/apktool-lib/1.4.4-3/1d0125bf578cb30dd192496db56c2d937495248a/apktool-lib-1.4.4-3.jar"
+        revision="25.0.2"
+        sha1="1d0125bf578cb30dd192496db56c2d937495248a">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/apktool-lib-1.4.4-3-dfa67b541e1ca682b8aaf20a89d145cdafccc0b0.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/Documents/git/mcsApp/app/libs/agora-rtc-sdk.jar"
+        revision="25.0.2"
+        sha1="dc4343ce693a7e9ece41fc8e7240def42aa0d7f5">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/agora-rtc-sdk-8b99c2f82af74d751f85297a50e15145f5a07445.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/b1a09f0c1b37b639dc5366c0861137616891d8b1/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-11beb702cfe6bed1d74d448c7486a7f095ae6bae.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.1.0-7b6273b4b1a6b71c35c8ece68d9c55f6f2138e1d.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-core/1.1.1-5/896dad3f097d92c60780b3e4fddf3378c14b298/logback-android-core-1.1.1-5.jar"
+        revision="25.0.2"
+        sha1="0896dad3f097d92c60780b3e4fddf3378c14b298">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/logback-android-core-1.1.1-5-1fe1fc583c6f9da249a84e58ea7ac86746943c26.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/4c9f1ee387908264a9c016a2497607f7c411b5ee/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a94a321490ece920d277f9883fe2208cdb896e4f.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-6c564fddbcf7d8862c29d597942d933859f85d38.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.gradle/caches/modules-2/files-2.1/com.qiniu/happy-dns/0.2.7/d94b7987386a3aabbb5aa0be21589f72931f0489/happy-dns-0.2.7.jar"
+        revision="25.0.2"
+        sha1="d94b7987386a3aabbb5aa0be21589f72931f0489">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/happy-dns-0.2.7-d5b1a4f373221d2d15ce5cdcbdcb4f3213782a83.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/b939ecf45a845ab5695803f477641f443214a088/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ae2f1a22cfa611bbcb66ec5f6b60c1043918df69.jar" />
+    </item>
+    <item
+        jar="/Users/zzh/.android/build-cache/735a3f0e43c743513d0f1a70cadc58835bf0517e/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/zzh/Documents/git/mcsApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-57cde863f403664f0a93738d4d063c5cae175e2f.jar" />
     </item>
 
 </items>
